@@ -16,4 +16,4 @@ MIT License
 
 ## Contract Testnet
 
-- These contract is for testnet deployment. Ater Security Audit we will deploy on mainnet
+- These contract is for testnet deployment. After Security Audit we will deploy on mainnet
