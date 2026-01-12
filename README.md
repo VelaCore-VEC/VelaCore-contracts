@@ -13,3 +13,7 @@ BNB Smart Chain Testnet
 ## License
 
 MIT License
+
+## Contract Testnet
+
+- These contract is for testnet deployment. Ater Security Audit we will deploy on mainnet
