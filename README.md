@@ -17,3 +17,13 @@ MIT License
 ## Contract Testnet
 
 - These contract is for testnet deployment. After Security Audit we will deploy on mainnet
+
+### VelaCore Contract Address Testnet
+
+- 0x1D3516E449aC7f08F5773Dc8d984E1174420867a
+
+
+### VelaCore Staking Contract Address Testnet
+
+- 0x1D3516E449aC7f08F5773Dc8d984E1174420867a
+
