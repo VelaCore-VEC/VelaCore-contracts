@@ -20,7 +20,7 @@ MIT License
 
 ### VelaCore Contract Address Testnet
 
-- 0x1D3516E449aC7f08F5773Dc8d984E1174420867a
+- 0x5172335bF34D96B541581B1f656d8fC2D94D3be8
 
 
 ### VelaCore Staking Contract Address Testnet
